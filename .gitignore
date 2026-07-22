@@ -1,0 +1,5 @@
+kafka_2.13-3.6.1/
+kafka_2.13-3.6.1.tgz
+kafka_2.13-3.7.0.tgz
+target/
+*.class
